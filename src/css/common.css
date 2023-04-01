@@ -1,3 +1,12 @@
 .bnr-common-width{
     width: 100%;
 }
+.jtf-content-center{
+    justify-content: center;
+}
+.aln-items-center{
+    align-items: center;
+}
+.txt-align-center{
+    text-align: center;
+}
